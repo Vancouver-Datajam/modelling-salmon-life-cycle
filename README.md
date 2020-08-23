@@ -22,7 +22,7 @@ Sample script usage for script my_script.py
     
 ## References
 
-1. Any project you used, wether an open source tool, a library, a paper, an online, a data source. 
+1. Any project you used, whether an open source tool, a library, a paper, an online, a data source. 
 
 
 
