@@ -1,6 +1,7 @@
-# Laura's Team: <Title of project>
+# Modelling Salmon Life Cycle in Comox Valley Harbour
 
 ## Team members names:
+Laura Gutierrez Funderburk (team lead)
 
 ## Project description
 
