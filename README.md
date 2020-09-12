@@ -7,6 +7,7 @@
 - Courtney Van Den Elzen, University of Colorado Boulder and R Ladies
 - B. Eni Owoeye
 - Janson Lin, Simon Fraser University
+- Pierayeh Vahdani, Simon Fraser University
 
 ## Project description
 
