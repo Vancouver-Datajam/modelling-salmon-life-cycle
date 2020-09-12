@@ -39,9 +39,11 @@
 
 This script contains code that scrapes data from the following website https://www.waterlevels.gc.ca/eng/data for a given location.
 
-2020 Tides https://www.waterlevels.gc.ca/eng/data/table/2020/wlev_sec/7965 
-2019 Tides https://www.waterlevels.gc.ca/eng/data/table/2019/wlev_sec/7965
-2018 Tides https://www.waterlevels.gc.ca/eng/data/table/2018/wlev_sec/7965
+We will focus on data from [Comox Valley Harbour](http://comoxharbour.com/location). 
+
+- 2020 Tides https://www.waterlevels.gc.ca/eng/data/table/2020/wlev_sec/7965 
+- 2019 Tides https://www.waterlevels.gc.ca/eng/data/table/2019/wlev_sec/7965
+- 2018 Tides https://www.waterlevels.gc.ca/eng/data/table/2018/wlev_sec/7965
 
 The python script will take as input:
 Website URL
