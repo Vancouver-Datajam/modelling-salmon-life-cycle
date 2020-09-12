@@ -6,6 +6,7 @@
 - Anouk de Brouwer
 - Courtney Van Den Elzen, University of Colorado Boulder and R Ladies
 - B. Eni Owoeye
+- Janson Lin, Simon Fraser University
 
 ## Project description
 
