@@ -1,4 +1,4 @@
-# Authors: Rachel Dunn, Laura GF, Anouk de Brouwer
+# Authors: Rachel Dunn, Laura GF, Anouk de Brouwer, Courtney V
 # Date created: Sept 12 2020
 # Date modified: 
 
