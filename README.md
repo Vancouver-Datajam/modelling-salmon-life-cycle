@@ -1,10 +1,10 @@
 # Modelling Salmon Life Cycle in Comox Valley Harbour
 
 ## Team members names:
-Laura Gutierrez Funderburk (team lead)
-Rachel Dunn (mentor) 
-Anouk de Brouwer
-Courtney Van Den Elzen, University of Colorado Boulder and R Ladies
+- Laura Gutierrez Funderburk (team lead)
+- Rachel Dunn (mentor) 
+- Anouk de Brouwer
+- Courtney Van Den Elzen, University of Colorado Boulder and R Ladies
 
 ## Project description
 
