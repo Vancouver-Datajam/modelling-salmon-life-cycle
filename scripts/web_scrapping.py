@@ -1,4 +1,4 @@
-# Authors: Rachel Dunn
+# Authors: Rachel Dunn, Laura GF
 # Date created: Sept 12 2020
 # Date modified: 
 
