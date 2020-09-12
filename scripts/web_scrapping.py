@@ -1,4 +1,4 @@
-# Authors:
+# Authors: Anouk de Brouwer
 # Date created: Sept 12 2020
 # Date modified: 
 
