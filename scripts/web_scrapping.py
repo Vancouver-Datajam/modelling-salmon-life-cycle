@@ -1,4 +1,4 @@
-# Authors: Anouk de Brouwer
+# Authors: Rachel Dunn, Laura GF
 # Date created: Sept 12 2020
 # Date modified: 
 
@@ -13,4 +13,5 @@ def functions(par1):
 if __name__ == "__main__":
     
     print("This is the main program")
-    print("This program gets tide data from Comox Harbour") 
+    print("This program gets tide data from Comox Harbour")
+    print("Testing from command line")
