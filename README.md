@@ -1,6 +1,6 @@
 # Modelling Salmon Life Cycle in Comox Valley Harbour
 
-## Team members names:
+## Team members:
 - Laura Gutierrez Funderburk (team lead)
 - Rachel Dunn (mentor) 
 - Anouk de Brouwer
