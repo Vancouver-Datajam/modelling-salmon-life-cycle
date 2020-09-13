@@ -11,10 +11,9 @@
 
 ## Project description
 
-3-5 sentences describing your project
-1. Problem
-2. Dataset
-3. Why you think this is interesting
+Our goal is to model the life cycle of chinook salmon. We are interested in studying the long term impact to population size of salmon when we introduce microplastic ingestion, as well as fishing and harvesting practices. 
+We are also interested in studying the differences between to fishing models: industrial fishing and intertidal modifications (which rely on tide behaviour) used by the Northern Coast Salish Peoples. 
+
 
 ## Datajam Schedule
 | Time | Description |
@@ -63,7 +62,16 @@ Sample script usage
     
 ## References
 
-1. Any project you used, whether an open source tool, a library, a paper, an online, a data source. 
+1. Krkošek Martin, Hilborn Ray, Peterman Randall M.and Quinn Thomas P.  2011Cycles, stochasticity and density dependence in pink salmon population dynamicsProc. R. Soc. B.2782060–2068 http://doi.org/10.1098/rspb.2010.2335 
+
+2. Desforges JP, Galbraith M, Ross PS. Ingestion of Microplastics by Zooplankton in the Northeast Pacific Ocean. Arch Environ Contam Toxicol. 2015;69(3):320-330. doi:10.1007/s00244-015-0172-5
+
+Data Sources: 
+- 2020 Tides https://www.waterlevels.gc.ca/eng/data/table/2020/wlev_sec/7965 
+- 2019 Tides https://www.waterlevels.gc.ca/eng/data/table/2019/wlev_sec/7965
+- 2018 Tides https://www.waterlevels.gc.ca/eng/data/table/2018/wlev_sec/7965
+
+Ocean Wise The Epic Journey - Follow a Salmon from Egg to Spawner. https://www.youtube.com/watch?v=nkXthUsnRz4&amp;ab_channel=OceanWise 
 
 
 
