@@ -11,7 +11,7 @@
 
 ## Project description
 
-Our goal is to model the life cycle of chinook salmon. We are interested in studying the long term impact to population size of salmon when we introduce microplastic ingestion, as well as fishing and harvesting practices. 
+Our goal is to model the life cycle of chinook salmon. We are interested in studying the long term impact of population size of salmon when we introduce microplastic ingestion, as well as fishing and harvesting practices. 
 We are also interested in studying the differences between to fishing models: industrial fishing and intertidal modifications (which rely on tide behaviour) used by the Northern Coast Salish Peoples. 
 
 
